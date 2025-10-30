@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_timetable">Timetable</string>
+    <string name="nav_homework">Homework</string>
+    <string name="nav_exams">Exams</string>
+    <string name="nav_notes">Notes</string>
+    <string name="nav_teachers">Teachers</string>
+    <string name="nav_settings">Settings</string>
+</resources>
